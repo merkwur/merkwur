@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @merkwur
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently learning a variety of topics. 
-- 💞️ I will looking to collaborate, but first a little bit more experience. 
+- 💞️ I will look to collaborate, but first to gain a bit more experience. 
 
 
 <!---
